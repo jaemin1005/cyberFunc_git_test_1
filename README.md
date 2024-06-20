@@ -1,6 +1,3 @@
-
-
-
 -----= Commit Convention -------
 New : 파일 생성
 Feat : 기능 추가
